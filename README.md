@@ -46,16 +46,12 @@ This app requires a News API key. Sign up at https://newsapi.org and get your AP
 
 Create a .env file in the root directory and add:
 
-ini
-Copy
-Edit
 REACT_APP_NEWS_API_KEY=your_api_key_here
+
 Make sure to restart the development server after setting the API key.
 
 📁 Folder Structure
-pgsql
-Copy
-Edit
+
 samachar/
 │
 ├── public/
@@ -73,7 +69,7 @@ samachar/
 └── README.md
 
 🖼️ Screenshots
-(Add screenshots or a demo GIF here if available)
+(Pending...)
 
 📌 Todo / Future Features
  Category-wise filtering (Tech, Sports, etc.)
